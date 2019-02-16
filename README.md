@@ -12,10 +12,10 @@ Liri is a command line app that provides information on songs, concert dates/ven
 ## Using the app
 On the command line Liri has the following commands available:
 1. concert-this <artist\band name> lists concert dates using the bands in town API
-[](concert-this.png)
+![](concert-this.png)
 2. spotify-this <song-name> lists song information using the Spotify API
-[](spotify-this.png)
+![](Spotify-this.png)
 3. movie-this <movie-name> list information on the movie using thr OMDB API
-[](movie-this.png)
+![](movie-this.png)
 4. do-what-it-says reads the random.txt file 
-[](do-what-it-says.png)
+![](do-what-it-says.png)
