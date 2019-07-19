@@ -1,5 +1,5 @@
 # liri-node-app
-Liri is a command line app that provides information on songs, concert dates/venues, and movies using the Spotify, Bands in town, OMDB Apis.
+Liri is a command line app that provides information on songs, concert dates/venues, and movies using the Spotify, Bands in town, OMDB APIs.
 
 ## Installing the app
 1. Clone this respostitory onto your local machine.
